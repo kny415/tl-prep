@@ -8,7 +8,7 @@ def mutate(array)
 end
 
 p "before mutate: #{a}"
-mutate(a)
+p mutate(a)
 p "after mutate: #{a}"
 
 p "********"
@@ -20,5 +20,5 @@ def no_mutate(array)
 end
 
 p "before no_mutate: #{a}"
-no_mutate(a)
+p no_mutate(a)
 p "after no_mutate: #{a}"

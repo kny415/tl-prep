@@ -86,4 +86,10 @@ methods
 
   we can pass method calls as arguments to other methods
   multiply(add(20, 45), subtract(80, 10))   # => 4550
-  
+
+conditionals
+  if x == 3 then puts "x is 3" end  # then needed for 1 liner ifs
+  puts "x is 3" if x == 3
+
+  true ? "this is true" : "this is false"
+  false ? "this is true" : "this is false"

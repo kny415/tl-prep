@@ -1,0 +1,79 @@
+initial enthusiasm is great, but it will wear off
+the habit of focused practice will take the place of enthusiasm for continued progress and mastery
+something must be sacrificed to develop these habits
+
+what are you wrking towards?
+	
+  
+
+i can be better than what anybody else thinks, and i can surpass any expectations i have for myself
+i have failed over and over and over again, and that is why i succeed
+limits like fears, are often just an illusion  
+
+git
+  git init      # creates new repo in current dir, generates .git directory
+  git config    # sets author email and name
+  git status    # show working directory and staged changes.  use this command liberally
+  git add <filename>  # stage file changes, prepares them to be added to the repoi
+  git commit -m "commit message" # creates a commit from staged files
+
+  git remote add origin <url> # add github url for repo
+  git push    # pushes commits from local repo to remote
+  git pull    # pulls commits from remote repo to local
+  git clone    # pulls contents of existing remote repo into a new local repo and adds a remmote to the local repo
+  git diff master origin/master   # shows changes
+
+strings
+  when to use single vs. double quotes
+  "the man said, 'Hi there!'"     # 
+  'the man said, \'Hi there!\''   # (\) escapes the single quote
+  a = "ten"
+  b = "My favorite number is #{a}!"   # string interpolation only works inside double quotes
+
+symbols
+  :name
+  :a_symbol
+  used when you want to reference something like a string but dont ever intend to print it or change it.  immutable/unchangeable
+
+nil
+  "Hello world".nil?    # returns false, it is not a nil type
+  when used in an if expression, the if is treated as false
+
+maths
+  15/4    # 3
+  15.0/4  # 3.75, if one of the numbers is a float, ruby returns a float
+  'foo' + 'bar'   # "foobar"
+  '12'.to_i + 2    # 14
+
+hash rocket
+  {:dog => 'barks', :cat => meows}
+
+ruby expressions always return a value, even if that value is nil or an error
+
+puts vs return
+a = puts "stuff"
+puts a    # returns nil
+
+
+variables
+  name = gets.chomp  # waits for user input, and removes the cariage return
+
+  scope
+    a block is a piece of code within {}'s or do/end
+    not all do/end pairs imply a block
+    inner scope can access outer scope variables, but not vice versa
+    methods create their own scope, dont mix them up with do/ends
+    each, times, and other methods create a new block
+    5 types of variables:
+    constants     # FIVE = 5
+    global        # $var = 'global', available throughout app
+    class         # @@instances = 0, accessible by class and instance
+    instances     # @var = 'available in this instance'
+    local         # var = "obeys all scope boundaries"
+
+methods
+  def say     # methods start with def
+    # method logic
+  end         # end method
+
+  

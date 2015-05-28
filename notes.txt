@@ -93,3 +93,36 @@ conditionals
 
   true ? "this is true" : "this is false"
   false ? "this is true" : "this is false"
+
+loops
+  break     # exits the loop
+  next      # skips everything below in the loop
+  while vs until loops  # the conditional statement is reversed
+  
+  while <condition>
+    #code
+  end
+
+  loop do
+    # code
+    if <condition>
+      break
+    end
+  end
+  
+  for i in 1..x do
+    # code
+  end
+
+  for i in x do
+    puts i
+  end
+
+  iterators
+    names = ['bob, 'joe', 'steve', 'janice', 'helen']
+    names.each { |name| puts name }
+    {} is the block and is used if contained in one line
+    do/end is used if on multi lines
+    names.each do |name|
+      puts name
+    end

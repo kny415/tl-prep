@@ -19,6 +19,7 @@ git
 
   git remote add origin <url> # add github url for repo
   git push    # pushes commits from local repo to remote
+  git push -u origin master
   git pull    # pulls commits from remote repo to local
   git clone    # pulls contents of existing remote repo into a new local repo and adds a remmote to the local repo
   git diff master origin/master   # shows changes
@@ -126,3 +127,25 @@ loops
     names.each do |name|
       puts name
     end
+
+arrays
+  array = [1, 'Bob', 4.33, 'Another String'] # arrays can contain anything, even mixtures and other arrays
+  array.first     # => 1
+  array.last      # => "another string"
+  array[2]        # => 4.33
+  array.pop       # returns and removes last item of array
+  array.push("astr")      # adds item to end of array
+  array << "astr"         # same as .push
+  a.map { |num| num**2 }  # iterates over entire array
+  a.collect { |num| num**2 } # same as above
+  a.delete_at(1)    # deletes item at index from array
+  a.delete ("astr") # deletes item "astr"
+  numbers.select { |num| num > 4 } # returns an array with values true
+  a.unshift(1)      # adds 1 to the beginning of the array
+  a.include?(3)
+  a.flatten
+  a.each_with_index { |val, idx| puts "#{val}: #{idx}"}
+  a.sort
+  a.each vs a.map, a.each iterates and returns original array.  a.map iterates and returns a new array
+  a.index(5)    # finds 5 in the array and returns the index
+  

@@ -148,4 +148,24 @@ arrays
   a.sort
   a.each vs a.map, a.each iterates and returns original array.  a.map iterates and returns a new array
   a.index(5)    # finds 5 in the array and returns the index
+
+
+hash
+  old_syntax_hash = {:name => 'bob'}
+  new_hash = {name: 'bob'}
+  new_hash[:age] = 62       #{} : is after, [] : is before
   
+  def greeting(name, options = {})
+    if options.empty?  #...
+  greeting("bob", {age: 62, city: "sf"})
+
+  anything can be a hash key, just use the old syntax
+  {["height"] => "6 ft"}
+  {45.6 => "forty five.six"}
+
+  new_hash.has_key?("bob")    # => true
+  new_hash.select { |k, v| k == 'bob'}    # => {"bob"=>42}
+  new_hash.fetch("bob")   # => 62
+  new_hash.keys     # => returns all keys in the hash
+  new_hash.values   # => returns all values in the hash
+  new_hash.each do |k, v|

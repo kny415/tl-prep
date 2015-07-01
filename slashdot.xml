@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">
+
+<channel rdf:about="http://slashdot.org/">
+<title>Slashdot</title>
+<link>http://slashdot.org/</link>
+<description>News for nerds, stuff that matters</description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright 1997-2015, DHI Group Inc. All Rights Reserved. Slashdot is a DHI service</dc:rights>
+<dc:date>2015-05-30T21:39:11+00:00</dc:date>
+<dc:publisher>Dice</dc:publisher>
+<dc:creator>help@slashdot.org</dc:creator>
+<dc:subject>Technology</dc:subject>
+<syn:updateBase>1970-01-01T00:00+00:00</syn:updateBase>
+<syn:updateFrequency>1</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://hardware.slashdot.org/story/15/05/29/2337213/ask-slashdot-what-interesting-things-can-i-power-with-an-external-usb-battery?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://yro.slashdot.org/story/15/05/30/2033201/can-you-commit-copyright-infringement-by-using-your-own-work?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://science.slashdot.org/story/15/05/30/1954213/new-alloy-bounces-back-into-shape-10-million-times-and-counting?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://yro.slashdot.org/story/15/05/30/188219/the-patriot-act-may-be-dead-for-good?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://ask.slashdot.org/story/15/05/30/162238/ask-slashdot-switching-careers-from-software-engineering-to-networking?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://developers.slashdot.org/story/15/05/30/1635240/lets-take-this-open-floor-plan-to-the-next-level?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/05/30/1539226/google-chrome-tops-1-billion-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://hardware.slashdot.org/story/15/05/30/1438255/nvidia-shield-android-tv-reviewed-gaming-and-possibly-the-ultimate-4k-streamer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://science.slashdot.org/story/15/05/30/1336243/microscopic-underwater-sonic-screwdriver-successfully-tested?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://hardware.slashdot.org/story/15/05/30/069208/untethered-miniature-origami-robot-that-self-folds-walks-swims-and-degrades?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/05/30/0554252/google-photos-launches-with-unlimited-storage-completely-separate-from-google?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://science.slashdot.org/story/15/05/30/0423244/the-case-for-a-muon-collider-succeeding-the-lhc-just-got-stronger?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/05/30/0421253/third-stage-design-problem-cause-of-most-recent-proton-failure?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/05/30/0116202/stanford-researchers-make-photonic-components-faster-with-algorithmic-design?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/05/29/2331202/first-ultraviolet-quantum-dots-shine-in-an-led?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+ </rdf:Seq>
+</items>
+<image rdf:resource="http://a.fsdn.com/sd/topics/topicslashdot.gif" />
+<textinput rdf:resource="http://slashdot.org/search.pl" />
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rdf+xml" href="http://rss.slashdot.org/Slashdot/slashdot" /><feedburner:info uri="slashdot/slashdot" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /></channel>
+<image rdf:about="http://a.fsdn.com/sd/topics/topicslashdot.gif">
+<title>Slashdot</title>
+<url>http://a.fsdn.com/sd/topics/topicslashdot.gif</url>
+<link>http://slashdot.org/</link>
+</image>
+<item rdf:about="http://hardware.slashdot.org/story/15/05/29/2337213/ask-slashdot-what-interesting-things-can-i-power-with-an-external-usb-battery?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Ask Slashdot: What Interesting Things Can I Power With an External USB Battery?</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/o8dRFIgiuzc/ask-slashdot-what-interesting-things-can-i-power-with-an-external-usb-battery</link>
+<description>New submitter expert464 writes: I just purchased an external usb battery for the main purpose of charging smartphones. I've also thought of using it to power a usb lamp and charge a bluetooth speaker. What other things am I missing that would be useful and/or interesting to power when not near an electrical outlet?&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Ask+Slashdot%3A+What+Interesting+Things+Can+I+Power+With+an+External+USB+Battery%3F%3A+http%3A%2F%2Fbit.ly%2F1BxvqOO"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fhardware.slashdot.org%2Fstory%2F15%2F05%2F29%2F2337213%2Fask-slashdot-what-interesting-things-can-i-power-with-an-external-usb-battery%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://hardware.slashdot.org/story/15/05/29/2337213/ask-slashdot-what-interesting-things-can-i-power-with-an-external-usb-battery?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://hardware.slashdot.org/story/15/05/29/2337213/ask-slashdot-what-interesting-things-can-i-power-with-an-external-usb-battery?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7483293&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/o8dRFIgiuzc" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-05-30T21:21:00+00:00</dc:date>
+<dc:subject>power</dc:subject>
+<slash:department>charge-other-usb-batteries-recursively</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>16</slash:comments>
+<slash:hit_parade>16,16,10,7,0,0,0</slash:hit_parade>
+<feedburner:origLink>http://hardware.slashdot.org/story/15/05/29/2337213/ask-slashdot-what-interesting-things-can-i-power-with-an-external-usb-battery?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://yro.slashdot.org/story/15/05/30/2033201/can-you-commit-copyright-infringement-by-using-your-own-work?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Can You Commit Copyright Infringement By Using Your Own Work?</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/ZUcqbKiPsgY/can-you-commit-copyright-infringement-by-using-your-own-work</link>
+<description>Mrs. Grundy writes: Notorious appropriation artist Richard Prince has been in the news again with his show consisting of screen shots of other people's Instagram photos printed as large inkjets on canvas. These prints have reportedly sold for $90,000. In 2013 Prince successfully defeated a lawsuit for a previous appropriation by convincing the court his work was 'transformative' and it's likely this new work would also find a sympathetic ear in the court. Among the photographs whose work he used this time were several from the Suicide Girls Instagram feed. In response, Selena Mooney, cofounder of Suicide Girls, began offering exact replicas of Prince's pieces that used her photographs for a mere $90. Photographer Mark Meyer looks at the bizarre possibility that if Prince's use of Mooney's work is transformative and fair, Mooney's might be copyright infringement.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Can+You+Commit+Copyright+Infringement+By+Using+Your+Own+Work%3F%3A+http%3A%2F%2Fbit.ly%2F1K1gMGJ"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fyro.slashdot.org%2Fstory%2F15%2F05%2F30%2F2033201%2Fcan-you-commit-copyright-infringement-by-using-your-own-work%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://yro.slashdot.org/story/15/05/30/2033201/can-you-commit-copyright-infringement-by-using-your-own-work?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://yro.slashdot.org/story/15/05/30/2033201/can-you-commit-copyright-infringement-by-using-your-own-work?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7486321&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/ZUcqbKiPsgY" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-05-30T20:32:00+00:00</dc:date>
+<dc:subject>yro</dc:subject>
+<slash:department>out-there-to-grab</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>40</slash:comments>
+<slash:hit_parade>40,39,23,19,2,0,0</slash:hit_parade>
+<feedburner:origLink>http://yro.slashdot.org/story/15/05/30/2033201/can-you-commit-copyright-infringement-by-using-your-own-work?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://science.slashdot.org/story/15/05/30/1954213/new-alloy-bounces-back-into-shape-10-million-times-and-counting?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>New Alloy Bounces Back Into Shape 10 Million Times And Counting</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/3KmGUhbhb2A/new-alloy-bounces-back-into-shape-10-million-times-and-counting</link>
+<description>wrp103 links to the BBC's report of a newly engineered alloy that returns to its original shape after deformation even after 10 million cycles more than 10 million times. From the article: "Memory shape alloys" like this have many potential uses, but present incarnations are prone to wearing out.The new material &amp;mdash; made from nickel, titanium and copper &amp;mdash; shatters previous records and is so resilient it could be useful in artificial heart valves, aircraft components or a new generation of solid-state refrigerators."
+
+(Original article in Science Magazine.)&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=New+Alloy+Bounces+Back+Into+Shape+10+Million+Times+And+Counting%3A+http%3A%2F%2Fbit.ly%2F1LUe2cE"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F15%2F05%2F30%2F1954213%2Fnew-alloy-bounces-back-into-shape-10-million-times-and-counting%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://science.slashdot.org/story/15/05/30/1954213/new-alloy-bounces-back-into-shape-10-million-times-and-counting?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/15/05/30/1954213/new-alloy-bounces-back-into-shape-10-million-times-and-counting?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7486285&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/3KmGUhbhb2A" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-05-30T19:34:00+00:00</dc:date>
+<dc:subject>science</dc:subject>
+<slash:department>bouncy-bouncy</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>22</slash:comments>
+<slash:hit_parade>22,22,12,8,2,2,1</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/story/15/05/30/1954213/new-alloy-bounces-back-into-shape-10-million-times-and-counting?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://yro.slashdot.org/story/15/05/30/188219/the-patriot-act-may-be-dead-for-good?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>The Patriot Act May Be Dead For Good</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/wVL7RgOMu0I/the-patriot-act-may-be-dead-for-good</link>
+<description>HughPickens.com points out Shane Harris's report at The Daily Beast that when powerful spying authorities under the Patriot Act expire at the stroke of midnight Monday, as currently appears likely, they may never return. "Senators have been negotiating over whether to pass a House bill that would renew and tweak existing provisions in the long-controversial law, but if the sunset comes and the provisions are off the books, lawmakers in both chambers would be facing a vote to reinstate controversial surveillance authorities, which is an entirely different political calculation. ...
+
+
+Three major Patriot provisions are on the chopping block: so-called roving wiretaps, which let the government monitor one person's multiple electronic devices; the "lone-wolf" provision, which allows surveillance of someone who's not connected to a known terrorist group; and Section 215, which, among other things, the government uses to collect the records of all landline phone calls in the United States." Obama has been urging Congress to pass the Freedom Act, but not warning that the sky will fall if they don't. That may reflect a calculation on the president's part that the surveillance authorities aren't important enough to lose political capital fighting to keep them. Meanwhile with the Senate not slated to return to Washington until just hours before that deadline, opponents like Sens. Rand Paul (R-Ky.) and Ron Wyden (D-Ore.) showing no signs of budging, and the House so far unwilling to bail out the upper chamber, the prospects for an eleventh-hour breakthrough look slim.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=The+Patriot+Act+May+Be+Dead+For+Good%3A+http%3A%2F%2Fbit.ly%2F1FlwFlL"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fyro.slashdot.org%2Fstory%2F15%2F05%2F30%2F188219%2Fthe-patriot-act-may-be-dead-for-good%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://yro.slashdot.org/story/15/05/30/188219/the-patriot-act-may-be-dead-for-good?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://yro.slashdot.org/story/15/05/30/188219/the-patriot-act-may-be-dead-for-good?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7486103&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/wVL7RgOMu0I" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-05-30T18:38:00+00:00</dc:date>
+<dc:subject>government</dc:subject>
+<slash:department>why-do-you-hate-america?</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>87</slash:comments>
+<slash:hit_parade>87,83,60,44,11,7,5</slash:hit_parade>
+<feedburner:origLink>http://yro.slashdot.org/story/15/05/30/188219/the-patriot-act-may-be-dead-for-good?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://ask.slashdot.org/story/15/05/30/162238/ask-slashdot-switching-careers-from-software-engineering-to-networking?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Ask Slashdot: Switching Careers From Software Engineering To Networking?</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/z6BaDkh2r9o/ask-slashdot-switching-careers-from-software-engineering-to-networking</link>
+<description>An anonymous reader writes: I am a software engineer with over 10 years of experience making approx 210k a year after bonus. I've seen countless of software engineering jobs off-shored or taken by H1Bs over the past 5 years. While I am pretty safe at my current job, software engineering as a profession is beginning to look bleak, and i am not even sure if I can ask for the same money if I decide to jump ship to another company (I live in an expensive area). A friend of mine who works as a network architect with dual CCIEs have no problem finding/landing jobs with high salary. His profession doesn't seem to be affected by outsourcing or H1bs, so I am tempted to switch from my field to networking for better stability and greener pastures. So the question is, should I do it? The reason why I am looking for the long-term stability is because I've a family of 3 to feed. I cannot afford to be jobless for more than 3 months if I do get laid-off, and software engineering doesn't seem to be the profession after years of observation to provide long-term stability.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Ask+Slashdot%3A+Switching+Careers+From+Software+Engineering+To+Networking%3F%3A+http%3A%2F%2Fbit.ly%2F1GM9Vjt"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fask.slashdot.org%2Fstory%2F15%2F05%2F30%2F162238%2Fask-slashdot-switching-careers-from-software-engineering-to-networking%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://ask.slashdot.org/story/15/05/30/162238/ask-slashdot-switching-careers-from-software-engineering-to-networking?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://ask.slashdot.org/story/15/05/30/162238/ask-slashdot-switching-careers-from-software-engineering-to-networking?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7485919&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/z6BaDkh2r9o" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-05-30T17:40:00+00:00</dc:date>
+<dc:subject>networking</dc:subject>
+<slash:department>you'll-need-to-attend-a-lot-of-cocktail-parties</slash:department>
+<slash:section>askslashdot</slash:section>
+<slash:comments>113</slash:comments>
+<slash:hit_parade>113,112,61,48,14,11,8</slash:hit_parade>
+<feedburner:origLink>http://ask.slashdot.org/story/15/05/30/162238/ask-slashdot-switching-careers-from-software-engineering-to-networking?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://developers.slashdot.org/story/15/05/30/1635240/lets-take-this-open-floor-plan-to-the-next-level?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Let's Take This Open Floor Plan To the Next Level</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/hu4GZ21ectM/lets-take-this-open-floor-plan-to-the-next-level</link>
+<description>theodp writes: In response to those of you who are unhappy with your Open Office, McSweeney's has some ideas for taking the open floor plan to the next level. "Our open floor plan was decided upon after rigorous research that primarily involved looking at what cool internet companies were doing and reflexively copying them," writes Kelsey Rexroat. "We're dismayed and confused as to why their model isn't succeeding for our own business, and have concluded that we just haven't embraced the open floor plan ideals as fully as we possibly can. So team, let's take this open floor plan to the next level!" Among the changes being implemented in the spirit of transparency and collaboration: 1. "All tables, chairs, and filing cabinets will be replaced by see-through plastic furnishings." 2. "All desks will be mounted on wheels and arranged into four-desk clusters. At random intervals throughout the day, a whistle will blow, at which point you should quickly roll your desk into a new cluster." 3. "Employees' desktops will be randomly projected onto a movie screen in the center of the office." 4. "You can now dial into a designated phone line to listen in on any calls taking place within the office and add your opinion." Some workplaces might make you question just how tongue-in-cheek this description is.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Let's+Take+This+Open+Floor+Plan+To+the+Next+Level%3A+http%3A%2F%2Fbit.ly%2F1FKOfSJ"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdevelopers.slashdot.org%2Fstory%2F15%2F05%2F30%2F1635240%2Flets-take-this-open-floor-plan-to-the-next-level%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://developers.slashdot.org/story/15/05/30/1635240/lets-take-this-open-floor-plan-to-the-next-level?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://developers.slashdot.org/story/15/05/30/1635240/lets-take-this-open-floor-plan-to-the-next-level?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7485973&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/hu4GZ21ectM" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-05-30T16:37:00+00:00</dc:date>
+<dc:subject>business</dc:subject>
+<slash:department>transparent-floors</slash:department>
+<slash:section>developers</slash:section>
+<slash:comments>84</slash:comments>
+<slash:hit_parade>84,80,55,40,11,4,2</slash:hit_parade>
+<feedburner:origLink>http://developers.slashdot.org/story/15/05/30/1635240/lets-take-this-open-floor-plan-to-the-next-level?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://tech.slashdot.org/story/15/05/30/1539226/google-chrome-tops-1-billion-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Google Chrome Tops 1 Billion Users</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/06YuhkeNCgo/google-chrome-tops-1-billion-users</link>
+<description>An anonymous reader writes with this excerpt from Venture Beat: At the I/O 2015 developer conference today, Sundar Pichai, Google's senior vice president of product, announced that Chrome has passed 1 billion active users. Less than a year ago, Google revealed Android has over 1 billion active users. These are indeed Google's biggest ecosystems. Google also shared that Google Search, YouTube, and Google Maps all have over 1 billion users as well. Gmail will reach the milestone next; it has 900 million users.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Google+Chrome+Tops+1+Billion+Users%3A+http%3A%2F%2Fbit.ly%2F1KEo18x"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F05%2F30%2F1539226%2Fgoogle-chrome-tops-1-billion-users%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/05/30/1539226/google-chrome-tops-1-billion-users?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/05/30/1539226/google-chrome-tops-1-billion-users?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7485895&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/06YuhkeNCgo" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-05-30T15:38:00+00:00</dc:date>
+<dc:subject>google</dc:subject>
+<slash:department>and-they're-grateful-for-it</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>74</slash:comments>
+<slash:hit_parade>74,74,47,45,11,5,3</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/05/30/1539226/google-chrome-tops-1-billion-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://hardware.slashdot.org/story/15/05/30/1438255/nvidia-shield-android-tv-reviewed-gaming-and-possibly-the-ultimate-4k-streamer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>NVIDIA SHIELD Android TV Reviewed: Gaming and Possibly the Ultimate 4K Streamer</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/uqkxIIMNiZc/nvidia-shield-android-tv-reviewed-gaming-and-possibly-the-ultimate-4k-streamer</link>
+<description>Earlier this week, NVIDIA officially launched its SHIELD Android TV set-top device, with far more horsepower than something like Roku or Apple TV, but on par with an average game console, and at a more affordable price tag of $199. MojoKid writes: What's interesting, however, is that it's powered by NVIDIA's Tegra X1 SoC which features a Maxwell-derived GPU and eight CPU cores; four ARM A57 cores and four A53s. The A57 cores are 64-bit, out-of-order designs, with multi-issue pipelines, while the A53s are simpler, in-order, highly-efficient designs. Which cores are used will depend on the particular workload being executed at the time. Tegra X1 also packs a 256-core Maxwell-derived GPU with the same programming capabilities and API support as NVIDIA's latest desktop GPUs. In standard Android benchmarks, the SHIELD pretty much slays any current high-end tablet or smartphone processor in graphics, but is about on par with the octal-core Samsung Exynos in terms of standard compute workloads but handily beating and octal-core Qualcomm Snapdragon. What's also interesting about the SHIELD Android TV is that it's not only an Android TV-capable device with movie and music streaming services like Netflix etc., but it also plays any game on Google Play and with serious horsepower behind it. The SHIELD Android TV is also the first device certified for Netflix's Ultra HD 4K streaming service.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=NVIDIA+SHIELD+Android+TV+Reviewed%3A+Gaming+and+Possibly+the+Ultimate+4K+Streamer%3A+http%3A%2F%2Fbit.ly%2F1AAvsdQ"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fhardware.slashdot.org%2Fstory%2F15%2F05%2F30%2F1438255%2Fnvidia-shield-android-tv-reviewed-gaming-and-possibly-the-ultimate-4k-streamer%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://hardware.slashdot.org/story/15/05/30/1438255/nvidia-shield-android-tv-reviewed-gaming-and-possibly-the-ultimate-4k-streamer?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://hardware.slashdot.org/story/15/05/30/1438255/nvidia-shield-android-tv-reviewed-gaming-and-possibly-the-ultimate-4k-streamer?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7485781&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/uqkxIIMNiZc" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-05-30T14:36:00+00:00</dc:date>
+<dc:subject>android</dc:subject>
+<slash:department>ensmallening-rocks</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>40</slash:comments>
+<slash:hit_parade>40,38,25,19,3,0,0</slash:hit_parade>
+<feedburner:origLink>http://hardware.slashdot.org/story/15/05/30/1438255/nvidia-shield-android-tv-reviewed-gaming-and-possibly-the-ultimate-4k-streamer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://science.slashdot.org/story/15/05/30/1336243/microscopic-underwater-sonic-screwdriver-successfully-tested?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Microscopic Underwater Sonic Screwdriver Successfully Tested</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/HrjZw6FdHmQ/microscopic-underwater-sonic-screwdriver-successfully-tested</link>
+<description>afeeney writes: Researchers at the University of Bristol and Northwestern Polytechnical University in China have created acoustic vortices that can create microscopic centrifuges that rotate small particles. They compare this to a watchmaker's sonic screwdriver. So far, though, the practical applications include cell sorting and low-power water purification, rather than TARDIS operations. Appropriately enough, one of the researchers is named Bruce Drinkwater.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Microscopic+Underwater+Sonic+Screwdriver+Successfully+Tested%3A+http%3A%2F%2Fbit.ly%2F1BwpqG9"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F15%2F05%2F30%2F1336243%2Fmicroscopic-underwater-sonic-screwdriver-successfully-tested%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://science.slashdot.org/story/15/05/30/1336243/microscopic-underwater-sonic-screwdriver-successfully-tested?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/15/05/30/1336243/microscopic-underwater-sonic-screwdriver-successfully-tested?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7485675&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/HrjZw6FdHmQ" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-05-30T13:34:00+00:00</dc:date>
+<dc:subject>china</dc:subject>
+<slash:department>twisting-in-the-waves</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>26</slash:comments>
+<slash:hit_parade>26,26,15,9,1,0,0</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/story/15/05/30/1336243/microscopic-underwater-sonic-screwdriver-successfully-tested?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://hardware.slashdot.org/story/15/05/30/069208/untethered-miniature-origami-robot-that-self-folds-walks-swims-and-degrades?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Untethered Miniature Origami Robot That Self-Folds, Walks, Swims, and Degrades</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/TbD5WtMC7oU/untethered-miniature-origami-robot-that-self-folds-walks-swims-and-degrades</link>
+<description>jan_jes writes: MIT researchers demonstrated an untethered miniature origami robot that self-folds, walks, swims, and degrades at ICRA 2015 in Seattle. A miniature robotic device that can fold-up on the spot, accomplish tasks, and disappear by degradation into the environment promises a range of medical applications but has so far been a challenge in engineering. This work presents a sheet that can self-fold into a functional 3D robot,actuate immediately for untethered walking and swimming, and subsequently dissolve in liquid. Further, the robot is capable of conducting basic tasks and behaviors, including swimming, delivering/carrying blocks, climbing a slope, and digging. The developed models include an acetone-degradable version, which allows the entire robot's body to vanish in a liquid. Thus this experimentally demonstrate the complete life cycle of this robot: self-folding,actuation, and degrading.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Untethered+Miniature+Origami+Robot+That+Self-Folds%2C+Walks%2C+Swims%2C+and+Degrades%3A+http%3A%2F%2Fbit.ly%2F1Ry23Fo"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fhardware.slashdot.org%2Fstory%2F15%2F05%2F30%2F069208%2Funtethered-miniature-origami-robot-that-self-folds-walks-swims-and-degrades%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://hardware.slashdot.org/story/15/05/30/069208/untethered-miniature-origami-robot-that-self-folds-walks-swims-and-degrades?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://hardware.slashdot.org/story/15/05/30/069208/untethered-miniature-origami-robot-that-self-folds-walks-swims-and-degrades?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7484123&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/TbD5WtMC7oU" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-05-30T12:27:00+00:00</dc:date>
+<dc:subject>robot</dc:subject>
+<slash:department>I-can-do-those-things-at-scale</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>24</slash:comments>
+<slash:hit_parade>24,24,12,11,3,0,0</slash:hit_parade>
+<feedburner:origLink>http://hardware.slashdot.org/story/15/05/30/069208/untethered-miniature-origami-robot-that-self-folds-walks-swims-and-degrades?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://tech.slashdot.org/story/15/05/30/0554252/google-photos-launches-with-unlimited-storage-completely-separate-from-google?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Google Photos Launches With Unlimited Storage, Completely Separate From Google+</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/e3PVDx_zJjQ/google-photos-launches-with-unlimited-storage-completely-separate-from-google</link>
+<description>An anonymous reader writes with a report that Google yesterday announced at its I/O conference a photo-storage site known as Google Photos. Says the article: The new service is completely separate from Google+, something Google users have been requesting for eons. Google is declaring that Google Photos lets you backup and store "unlimited, high-quality photos and videos, for free." It's a bit creepy to see all the photos that Google still has on tap, including many that I've since deleted on my phone.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Google+Photos+Launches+With+Unlimited+Storage%2C+Completely+Separate+From+Google%2B%3A+http%3A%2F%2Fbit.ly%2F1d5mmeb"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F05%2F30%2F0554252%2Fgoogle-photos-launches-with-unlimited-storage-completely-separate-from-google%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/05/30/0554252/google-photos-launches-with-unlimited-storage-completely-separate-from-google?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/05/30/0554252/google-photos-launches-with-unlimited-storage-completely-separate-from-google?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7484053&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/e3PVDx_zJjQ" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-05-30T09:52:00+00:00</dc:date>
+<dc:subject>google</dc:subject>
+<slash:department>delete-is-the-hardest-key-to-press</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>128</slash:comments>
+<slash:hit_parade>128,124,75,57,26,17,11</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/05/30/0554252/google-photos-launches-with-unlimited-storage-completely-separate-from-google?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://science.slashdot.org/story/15/05/30/0423244/the-case-for-a-muon-collider-succeeding-the-lhc-just-got-stronger?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>The Case For a Muon Collider Succeeding the LHC Just Got Stronger</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Rt_nq8WCbhU/the-case-for-a-muon-collider-succeeding-the-lhc-just-got-stronger</link>
+<description>StartsWithABang writes: If you strike the upper atmosphere with a cosmic ray, you produce a whole host of particles, including muons. Despite having a mean lifetime of just 2.2 microseconds, and the speed of light being 300,000 km/s, those muons can reach the ground! That's a distance of 100 kilometers traveled, despite a non-relativistic estimate of just 660 meters. If we apply that same principle to particle accelerators, we discover an amazing possibility: the ability to create a collider with the cleanliness and precision of electron-positron colliders but the high energies of proton colliders. All we need to do is build a muon collider. A pipe dream and the stuff of science fiction just 20 years ago, recent advances have this on the brink of becoming reality, with a legitimate possibility that a muon-antimuon collider will be the LHC's successor.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=The+Case+For+a+Muon+Collider+Succeeding+the+LHC+Just+Got+Stronger%3A+http%3A%2F%2Fbit.ly%2F1LPocf0"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F15%2F05%2F30%2F0423244%2Fthe-case-for-a-muon-collider-succeeding-the-lhc-just-got-stronger%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://science.slashdot.org/story/15/05/30/0423244/the-case-for-a-muon-collider-succeeding-the-lhc-just-got-stronger?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/15/05/30/0423244/the-case-for-a-muon-collider-succeeding-the-lhc-just-got-stronger?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7483745&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Rt_nq8WCbhU" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-05-30T07:07:00+00:00</dc:date>
+<dc:subject>science</dc:subject>
+<slash:department>other-people's-money</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>42</slash:comments>
+<slash:hit_parade>42,40,28,19,7,4,4</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/story/15/05/30/0423244/the-case-for-a-muon-collider-succeeding-the-lhc-just-got-stronger?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://tech.slashdot.org/story/15/05/30/0421253/third-stage-design-problem-cause-of-most-recent-proton-failure?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Third Stage Design Problem Cause of Most Recent Proton Failure</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/NcQL88s1iC8/third-stage-design-problem-cause-of-most-recent-proton-failure</link>
+<description>schwit1 writes: The Russian investigation into the latest Proton rocket failure has concluded that the failure was caused by a design failure in the rocket's third stage. The steering third stage engine failed due to excessive vibration as a result of an imbalance in a rotor of a pump unit.
+ While it is always possible for new design issues to be discovered, I wonder why this problem hadn't been noticed in the decades prior to 2010, when the Proton began to have repeated failures.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Third+Stage+Design+Problem+Cause+of+Most+Recent+Proton+Failure%3A+http%3A%2F%2Fbit.ly%2F1QgESN7"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F05%2F30%2F0421253%2Fthird-stage-design-problem-cause-of-most-recent-proton-failure%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/05/30/0421253/third-stage-design-problem-cause-of-most-recent-proton-failure?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/05/30/0421253/third-stage-design-problem-cause-of-most-recent-proton-failure?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7483737&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/NcQL88s1iC8" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-05-30T04:20:00+00:00</dc:date>
+<dc:subject>transportation</dc:subject>
+<slash:department>no-richard-feynman</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>60</slash:comments>
+<slash:hit_parade>60,57,39,32,14,13,8</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/05/30/0421253/third-stage-design-problem-cause-of-most-recent-proton-failure?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://tech.slashdot.org/story/15/05/30/0116202/stanford-researchers-make-photonic-components-faster-with-algorithmic-design?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Stanford Researchers Make Photonic Components Faster, With Algorithmic Design</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/nrr1zXQStQ0/stanford-researchers-make-photonic-components-faster-with-algorithmic-design</link>
+<description>retroworks writes: Integrated photonic devices are poised to play a key role in a wide variety of applications, ranging from optical interconnects and sensors to quantum computing. However, only a small library of semi-analytically designed devices is currently known. In an article in Nature Photonics, researchers demonstrate the use of an inverse design method that explores the full design space of fabricable devices and allows them to design devices with previously unattainable functionality, higher performance and robustness, and smaller footprints than conventional devices. The designed a silicon wavelength demultiplexer splits 1,300nm and 1,550nm light from an input waveguide into two output waveguides, and the team has fabricated and characterized several devices. The devices display low insertion loss (2dB), low crosstalk (100nm). The device footprint is 2.8&amp;#215;2.8m2, making this the smallest dielectric wavelength splitter.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Stanford+Researchers+Make+Photonic+Components+Faster%2C+With+Algorithmic+Design%3A+http%3A%2F%2Fbit.ly%2F1QgoTPm"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F05%2F30%2F0116202%2Fstanford-researchers-make-photonic-components-faster-with-algorithmic-design%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/05/30/0116202/stanford-researchers-make-photonic-components-faster-with-algorithmic-design?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/05/30/0116202/stanford-researchers-make-photonic-components-faster-with-algorithmic-design?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7483397&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/nrr1zXQStQ0" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-05-30T01:19:00+00:00</dc:date>
+<dc:subject>technology</dc:subject>
+<slash:department>algorithmic-method</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>23</slash:comments>
+<slash:hit_parade>23,23,17,12,4,1,1</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/05/30/0116202/stanford-researchers-make-photonic-components-faster-with-algorithmic-design?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://tech.slashdot.org/story/15/05/29/2331202/first-ultraviolet-quantum-dots-shine-in-an-led?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>First Ultraviolet Quantum Dots Shine In an LED</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/g7u7JDe_U2w/first-ultraviolet-quantum-dots-shine-in-an-led</link>
+<description>ckwu with word that South Korean researchers have created the first UV-emitting quantum dots, and employed them in the creation of a flexible LED. Their achievement is notable because
+no one has previously succeeded in making quantum dots capable of emitting light at wavelengths shorter than 400 nm, which defines the upper range of the UV spectrum. Writes ckwu: To get quantum dots that emit UV, the researchers figured out how make them with light-emitting cores smaller than 3 nm in diameter. They did it by coating a light-emitting cadmium zinc selenide nanoparticle with a zinc sulfide shell, which caused the core to shrink to 2.5 nm. The quantum dots give off true UV light, at 377 nm. An LED made with the quantum dots could illuminate the anticounterfeiting marks on a paper bill. The article names a few applications of the technology, besides, including water sterilization and industrial applications.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=First+Ultraviolet+Quantum+Dots+Shine+In+an+LED%3A+http%3A%2F%2Fbit.ly%2F1ADoIM7"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F05%2F29%2F2331202%2Ffirst-ultraviolet-quantum-dots-shine-in-an-led%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/05/29/2331202/first-ultraviolet-quantum-dots-shine-in-an-led?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/05/29/2331202/first-ultraviolet-quantum-dots-shine-in-an-led?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7483279&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/g7u7JDe_U2w" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-05-29T23:40:00+00:00</dc:date>
+<dc:subject>technology</dc:subject>
+<slash:department>keep-shinin'-keep-shrinkin'</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>44</slash:comments>
+<slash:hit_parade>44,44,33,28,10,8,3</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/05/29/2331202/first-ultraviolet-quantum-dots-shine-in-an-led?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<textinput rdf:about="http://slashdot.org/search.pl">
+<title>Search Slashdot</title>
+<description>Search Slashdot stories</description>
+<name>query</name>
+<link>http://slashdot.org/search.pl</link>
+</textinput>
+</rdf:RDF>

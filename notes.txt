@@ -95,6 +95,18 @@ conditionals
   true ? "this is true" : "this is false"
   false ? "this is true" : "this is false"
 
+  case a
+  when 1..5
+    puts "its between 1 and 5"
+  when 6
+    puts "its 6"
+  when String
+    puts "you passed a string"
+  else
+    puts "idk"
+  end
+
+
 loops
   break     # exits the loop
   next      # skips everything below in the loop
@@ -169,3 +181,16 @@ hash
   new_hash.keys     # => returns all keys in the hash
   new_hash.values   # => returns all values in the hash
   new_hash.each do |k, v|
+
+files
+  my_file = File.new("simple_file.txt", "w+")
+  my_file.close
+  File.read("filename")
+  File.readline("filename")
+  File.open("simple_file.txt", "w") { |file| file.write("add first line of text")}    # auto closes file bc of block
+  
+  require 'pathname'
+  f = File.new("simple_file.txt", "r") 
+  pn = Pathname.new(f)
+  pn.extname    # => ".txt", can also read a directory with pn
+  
